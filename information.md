@@ -6,7 +6,7 @@ site_classes: gray_background
 
 
 Here we come California!
-----
+=====
 
 Oh wait... but how do we get there?
 -----
@@ -17,14 +17,12 @@ Details...
 ====
 
 
-
-Airports
-=====
-
+Nearest Airports
+-----
+- SFO (San Francisco Airport)
 
 
 Hotels
-=====
-
-- [http://www.santacruzmotels.com/sea_and_sand.html](See and Sand Inn)
-- 
+-----
+- [Sea and Sand Inn](http://www.santacruzmotels.com/sea_and_sand.html)
+- [Dream Inn](http://www.jdvhotels.com/hotels/california/central-coast-hotels/santa-cruz-dream-inn)

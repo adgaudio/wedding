@@ -8,7 +8,7 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-        <<style type="text/css" media="all">
+        <style type="text/css" media="all">
           {{ page.style }}
         </style>
 
@@ -17,18 +17,17 @@
     <body>
       <div id="navbar">
         <ul>
-          <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
-          <li><a href="{{ site.baseurl }}/our-story.html">Our Story</a></li>
-          <li><a href="{{ site.baseurl }}/festivities.html">Weekend Festivities</a></li>
-          <li><a href="{{ site.baseurl }}/information.html">Travel & Hotels</a></li>
-          <li><a href="{{ site.baseurl }}/what-to-bring.html">What to Bring</a></li>
-          <li><a href="{{ site.baseurl }}/registry.html">Registry</a></li>
-          <li><a href="{{ site.baseurl }}/rsvp.html">RSVP</a></li>
+          <li><a href="{{ site.baseurl }}/index.html#site">Home</a></li>
+          <li><a href="{{ site.baseurl }}/our-story.html#site">Our Story</a></li>
+          <li><a href="{{ site.baseurl }}/festivities.html#site">Weekend Festivities</a></li>
+          <li><a href="{{ site.baseurl }}/information.html#site">Travel & Hotels</a></li>
+          <li><a href="{{ site.baseurl }}/what-to-bring.html#site">What to Bring</a></li>
+          <li><a href="{{ site.baseurl }}/registry.html#site">Registry</a></li>
+          <li><a href="{{ site.baseurl }}/rsvp.html#site">RSVP</a></li>
         </ul>
       </div>
       <div id="site" class="{{ page.site_classes }}">
-          {{ content }}
-        </div>
-
+        {{ content }}
+      </div>
     </body>
 </html>

@@ -1,76 +1,86 @@
 html {
-  color: #333333;
-  /*font-family: Georgia,"Century Gothic",sans-serif;*/
-  /*font-family: georgia;*/
-  font-family: "Cooper Black";
-  /*font-family: sans-serif;*/
-  /*font-family: arial;*/
-  /*font-family: 'Ostrich Sans';*/
+  font-weight: bold;
+  font-family: "Sawasdee", "Kinnari", "Rekha", "Palatino", "NanumMyeongjo Bold", "Century Gothic", "Georgia", "Cooper Black";
 }
 body {
-  background-color: rgb(25,25,25);
-  background-position: right;
-  background-size: 80% 140%;
-  background-image: url("{{ site.baseurl }}/img/bubbas_wilder_ranch_shadow.jpg");
+  background-position: top;
+  background-size: cover;
+  background-image: url("{{ site.baseurl }}/img/bubbas_beach.jpg");
   background-attachment:fixed;
   background-repeat: no-repeat;
-  margin: 5% 0 0 0;
+}
+
+body > * {
+  /*Apply to children of body, which should be navbar and site (*/
+  border-radius:12px;
+  margin: 2.5%;
+  padding: 0;
 }
 
 #site {
-  width: 75%;
+  width: 65%;
   float:right;
-  padding: 2.5%;
-  border-color: red;
-  border-style:solid;
-  border-width:1px;
+  padding: 0 2.5%;
+  min-width: 400px;
 }
 
 #navbar {
-  width: 19%;
-  padding-top:80px;
-  text-align:center;
+  background-color: rgba(60, 120, 91, .9);
   float:left;
-
-  border-color: green;
-  border-style:solid;
-  border-width:1px;
+  width: 20%;
+  min-width: 200px;
 }
 #navbar ul{
+  text-align:right;
+  margin: 0;
+  padding: 0;
   list-style-type:none;
-  margin:0
+  border-radius: inherit;
 }
 #navbar ul li{
-  margin-left: 1%;
-  margin-right: 1%;
-  margin-bottom: 26px;
+  padding: 10px 10px;
+  background-color: rgba(60, 120, 91, 0);
+  border-radius: inherit;
 }
 #navbar ul li a{
+  background-color: rgba(60, 120, 91, .0);
   text-decoration:none;
-  /*color: rgb(200,200,200);*/
-  color: rgb(230,230,200);
   font-size: 120%;
 }
-#navbar ul li a:hover{text-decoration:underline}
+#navbar ul li:hover{
+  text-decoration:underline;
+  background-color: rgba(50, 120, 91, 1);
+}
 
-#home{text-align:center;}
+/*default color options*/
+.white_text, #navbar ul li a, #home * {
+  color: #DEF3DF;
+}
+a:hover {
+  color:purple;
+}
+.gray_background {
+  background-color: rgba(250,255,100, .25);
+  background-color: rgba(245,235,255, .45);
+}
+.gray_background * {
+  color: #121212;
+}
+
+/*page specific css*/
+#home {
+  text-align:center;
+  padding-top: 35%;
+  margin-left: 20%;
+}
 #home h1{
   font-size: 500%;
   margin: 0;
-  text-shadow: 2px 2px rgb(71,71,91);
-  color: rgb(230,230,200);
+  /*text-shadow: 1px 1px #474747;*/
 }
 #home h2{
-  color: rgb(240,240,200);
-  text-shadow: 2px 2px rgb(71,71,91);
+  /*text-shadow: 1px 1px #474747;*/
 }
 #home h3 {
-  color: rgb(240,240,200);
-  text-shadow: 1px 1px rgb(71,71,71);
+  /*text-shadow: 1px 1px #474747;*/
 }
-
-.gray_background {
-    background-color: gray;
-    opacity: .9;
-  }
-
