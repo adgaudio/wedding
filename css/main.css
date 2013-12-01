@@ -85,3 +85,17 @@ a:hover {
   /*text-shadow: 1px 1px #474747;*/
 }
 
+.instagram_image {
+  border-radius:12px;
+  height:151px !important;
+  width:150px !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.instagram_image_holder {
+  border-radius:12px;
+  padding: 1%;
+  float: left;
+  background-color: #242424;
+}
+

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>What to Bring</title>
+        <title>Our instagram photos</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- CSS -->
@@ -28,7 +28,33 @@
         </ul>
       </div>
       <div id="site" class="gray_background">
-        
+        <h2>Please help us document our wedding by sharing your photos on Instagram!</h2>
+
+<h2>Use our hashtag!  #alexdillemma</h2>
+
+<pre>
+  <div id="instafeed"></div>
+  <!--Javascript-->
+  <script
+    type="text/javascript"
+    src="/wedding/js/instafeed.min.js">
+  </script>
+
+  
+    <script type="text/javascript">
+        var feed = new Instafeed({
+            get: 'tagged',
+            tagName: 'alexdillemma',
+            clientId: 'd5a94fab34bd49cba895b1bc1b26a854',
+            resolution: 'low_resolution',
+            sortBy: 'most-recent',
+            template: '<a href="{{link}}"><div class="instagram_image_holder"><div style="background-image:url({{image}})" class="instagram_image" /></div></a>'
+        });
+        feed.run();
+    </script>
+  
+</pre>
+
       </div>
     </body>
 
@@ -73,7 +99,7 @@ var jekyllMapping = (function () {
                 var mainMarker = new google.maps.Marker({
                     position: this.options.center,
                     map: this.map,
-                    title: "What to Bring"
+                    title: "Our instagram photos"
                 });
                 this.map.setCenter(this.options.center);
             }     
