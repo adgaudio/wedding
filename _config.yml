@@ -2,3 +2,12 @@ name: Alex + Emma
 markdown: redcarpet
 pygments: true
 baseurl: /wedding
+
+# https://github.com/matthewowen/jekyll-mapping.git
+mapping:
+  provider: google_js
+  api_key: AIzaSyD0Asjhx5wcn57L_yMhKAq1ePlb68QI6cY
+  zoom: 10
+  dimensions:
+    width: 600
+    height: 400
