@@ -12,10 +12,12 @@ mapping:
       latitude: 36.963403
       longitude: -122.024902
       link: https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Dream+Inn,+West+Cliff+Drive,+Santa+Cruz,+CA&aq=&sll=36.962169,-122.025533&sspn=0.024861,0.049524&vpsrc=0&t=h&ie=UTF8&hq=Dream+Inn,&hnear=W+Cliff+Dr,+Santa+Cruz,+California+95060&ll=36.963643,-122.025275&spn=0.02486,0.049524&z=15&iwloc=A&cid=4076966699112695307
+---
+{% comment %}
     - title: Wedding Venue
       latitude: 37.008567
       longitude: -122.135013
----
+{% endcomment %}
 
 
 Here we come California!
