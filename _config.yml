@@ -10,3 +10,4 @@ mapping:
   dimensions:
     width: 600
     height: 400
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
