@@ -3,6 +3,7 @@ markdown: redcarpet
 pygments: true
 baseurl: /wedding
 
+
 mapping:
   provider: google_js
   api_key: AIzaSyD0Asjhx5wcn57L_yMhKAq1ePlb68QI6cY
@@ -10,4 +11,10 @@ mapping:
   dimensions:
     width: 600
     height: 400
+
+instagram:
+  client_id: d5a94fab34bd49cba895b1bc1b26a854
+  client_id_localhost: b10f9c197a004790b79c8c07a97b4cf3
+  redirect_uri: http://alexgaudio.com/wedding/instagram.html
+  redirect_uri_localhost: http://localhost:4000/instagram.html
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
