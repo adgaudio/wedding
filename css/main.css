@@ -95,10 +95,11 @@ a:hover {
   width:150px !important;
   background-size: contain;
   background-repeat: no-repeat;
+  margin: 10px;
 }
 .instagram_image_holder {
   border-radius:12px;
-  padding: 1%;
+  margin: 5px;
   float: left;
   background-color: #242424;
 }

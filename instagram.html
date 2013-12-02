@@ -33,27 +33,65 @@
 
 <h2>Use our hashtag!  #alexdillemma</h2>
 
+<div id="instagram_authorize_oauth">
+<!--A link to let Instagram authorize this webpage-->
+</div>
+
+<div id="instafeed">
+<!--Instagram photos inserted here-->
+</div>
+
 <pre>
-  <div id="instafeed"></div>
-  <!--Javascript-->
   <script
     type="text/javascript"
     src="/wedding/js/instafeed.min.js">
   </script>
 
-  
-    <script type="text/javascript">
-        var feed = new Instafeed({
-            get: 'tagged',
-            tagName: 'alexdillemma',
-            clientId: 'd5a94fab34bd49cba895b1bc1b26a854',
-            resolution: 'low_resolution',
-            sortBy: 'most-recent',
-            template: '<a href="{{link}}"><div class="instagram_image_holder"><div style="background-image:url({{image}})" class="instagram_image" /></div></a>'
-        });
-        feed.run();
-    </script>
-  
+  <script type="text/javascript">
+    // Setup vars for an instagram feed using instafeedjs
+    
+    var data = {
+        get: 'tagged',
+        tagName: 'alexdillemma',
+        resolution: 'low_resolution',
+        sortBy: 'most-recent',
+        template: '<a href="{{link}}"><div class="instagram_image_holder"><div style="background-image:url({{image}})" class="instagram_image"></div></div></a>'
+    };
+    
+
+    // Add client_id
+    
+    
+      var clientId = 'b10f9c197a004790b79c8c07a97b4cf3';
+      var redirect_uri = 'http://localhost:4000/instagram.html';
+    
+    data['clientId'] = clientId;
+
+    // Try to add access token from url or session cache if possible
+    // hack: instagram returns access token as a hash, not as a query param
+    var accessToken = location.hash.split('=')[1];
+    var cache_key = redirect_uri + '--instagram_access_token--';
+    if (!accessToken) {
+      accessToken = window.sessionStorage.getItem(cache_key);
+    }
+    if (accessToken) {
+      data['accessToken'] = accessToken;
+      window.sessionStorage.setItem(cache_key, accessToken);
+    }
+
+    // run the instagram feed
+    var feed = new Instafeed(data);
+    feed.run();
+
+    // hack: add a link enabling people to view photos within their network
+    // if instagram let me have multiple referers, I wouldn't do it this way
+    var aTag = document.createElement('a');
+    aTag.setAttribute('href', 'https://instagram.com/oauth/authorize/?' + 
+      'client_id=' + clientId + '&redirect_uri=' + redirect_uri
+      + '&response_type=token');
+    aTag.innerHTML = 'Also show me the non-public photos from my Instagram friends!';
+    document.getElementById("instagram_authorize_oauth").appendChild(aTag);
+  </script>
 </pre>
 
       </div>
