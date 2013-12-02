@@ -47,6 +47,10 @@ body > * {
   text-decoration:none;
   font-size: 120%;
 }
+#navbar ul li .purple_text {
+  color: rgb(070,040,150);
+  /*color: purple;*/
+}
 #navbar ul li:hover{
   text-decoration:underline;
   background-color: rgba(50, 120, 91, 1);
