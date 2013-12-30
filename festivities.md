@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Party TIME!
+title: Schedule
 site_classes: gray_background
 ---
 
