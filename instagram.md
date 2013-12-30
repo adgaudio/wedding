@@ -80,5 +80,6 @@ Use our hashtag:  #alexdillemma
       + '&response_type=token');
     aTag.innerHTML = "Login to Instagram to see more photos.";
     document.getElementById("instagram_authorize_oauth").appendChild(aTag);
+
   </script>
 </pre>
