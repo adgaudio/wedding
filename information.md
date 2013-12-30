@@ -23,6 +23,7 @@ mapping:
 California here we come!
 =====
 
+The beautiful city of Santa Cruz is located 1 hr and 15 min from San Francisco and 30 minutes from San Jose.  There is no easily accessible public transportation from the airports, so we suggest renting a car or taking the Super Shuttle. We will provide transportation to and from hotels to the wedding location on September 13.
 
 Nearest Airports
 -----
