@@ -29,9 +29,11 @@
         </ul>
       </div>
       <div id="site" class="gray_background">
-        <h2>Please help us document our wedding by sharing your photos on Instagram!</h2>
+        <h1>Our Instagram Feed!</h1>
 
-<h2>Use our hashtag!  #alexdillemma</h2>
+<p>Please help us document our wedding by sharing your photos on Instagram.</p>
+
+<h2>Use our hashtag:  #alexdillemma</h2>
 
 <div id="instagram_authorize_oauth">
 <!--A link to let Instagram authorize this webpage-->
@@ -89,7 +91,7 @@
     aTag.setAttribute('href', 'https://instagram.com/oauth/authorize/?' + 
       'client_id=' + clientId + '&redirect_uri=' + redirect_uri
       + '&response_type=token');
-    aTag.innerHTML = 'Also show me the non-public photos from my Instagram friends!';
+    aTag.innerHTML = "Login to Instagram to see more photos.";
     document.getElementById("instagram_authorize_oauth").appendChild(aTag);
   </script>
 </pre>
