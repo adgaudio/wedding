@@ -4,5 +4,5 @@ title: Registry
 site_classes: gray_background
 ---
 
-Coming soon!
+Coming Soon!
 ============

@@ -5,16 +5,20 @@ site_classes: gray_background
 ---
 
 
-Please help us document our wedding by sharing your photos on Instagram!
------
+Our Instagram Feed!
+==============
+
+Please help us document our wedding by sharing your photos on Instagram.
 
 
-Use our hashtag!  #alexdillemma
-------
+Use our hashtag:  #alexdillemma
+---
+
 
 <div id="instagram_authorize_oauth">
 <!--A link to let Instagram authorize this webpage-->
 </div>
+
 
 <div id="instafeed">
 <!--Instagram photos inserted here-->
@@ -74,7 +78,7 @@ Use our hashtag!  #alexdillemma
     aTag.setAttribute('href', 'https://instagram.com/oauth/authorize/?' + 
       'client_id=' + clientId + '&redirect_uri=' + redirect_uri
       + '&response_type=token');
-    aTag.innerHTML = 'Also show me the non-public photos from my Instagram friends!';
+    aTag.innerHTML = "Login to Instagram to see more photos.";
     document.getElementById("instagram_authorize_oauth").appendChild(aTag);
   </script>
 </pre>

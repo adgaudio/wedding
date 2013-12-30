@@ -12,6 +12,12 @@ mapping:
       latitude: 36.963403
       longitude: -122.024902
       link: https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Dream+Inn,+West+Cliff+Drive,+Santa+Cruz,+CA&aq=&sll=36.962169,-122.025533&sspn=0.024861,0.049524&vpsrc=0&t=h&ie=UTF8&hq=Dream+Inn,&hnear=W+Cliff+Dr,+Santa+Cruz,+California+95060&ll=36.963643,-122.025275&spn=0.02486,0.049524&z=15&iwloc=A&cid=4076966699112695307
+    - title: San Jose Airport
+      latitude: 37.373431
+      longitude: -121.929901
+    - title: San Francisco Airport
+      latitude: 37.6189
+      longitude: -122.3750
 ---
 {% comment %}
     - title: Wedding Venue
@@ -22,6 +28,7 @@ mapping:
 
 California here we come!
 =====
+
 
 The beautiful city of Santa Cruz is located 1 hour and 15 miutes from San Francisco and 30 minutes from San Jose.  There is no easily accessible public transportation from the airports, so we suggest renting a car or taking the <a href="http://www.supershuttle.com/Locations/SFOAirportShuttleSanFrancisco.aspx" target="_blank">SuperShuttle</a>. The beach and downtown Santa Cruz are within walking distance from the hotels, so unless you are planning on doing other site-seeing, you do not necessarily need a car. We will provide transportation to and from hotels to the wedding location on September 13.
 
@@ -35,8 +42,8 @@ Nearest Airports
 
 Hotels
 -----
-- [Sea and Sand Inn](http://www.santacruzmotels.com/sea_and_sand.html)
-- [Dream Inn](http://www.jdvhotels.com/hotels/california/central-coast-hotels/santa-cruz-dream-inn)
+- <a href="http://www.santacruzmotels.com/sea_and_sand.html" target="_blank">Sea and Sand Inn</a>
+- <a href="http://www.jdvhotels.com/hotels/california/central-coast-hotels/santa-cruz-dream-inn" target="_blank">Dream Inn</a>
 
 When booking with one of our hotels, be sure to mention you are a part of the Gaudio/Richter wedding party.
 
