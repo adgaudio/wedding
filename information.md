@@ -29,7 +29,8 @@ Oh wait... but how do we get there?
 
 Nearest Airports
 -----
-- SFO (San Francisco Airport)
+- SFO (San Francisco International Airport)
+- SJC (Mineta San Jose International Airport)
 
 
 Hotels
