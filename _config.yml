@@ -1,7 +1,6 @@
 name: Alex + Emma
 markdown: redcarpet
 pygments: true
-baseurl: /wedding
 
 
 mapping:
