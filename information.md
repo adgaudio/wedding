@@ -4,7 +4,7 @@ title: Information
 site_classes: gray_background
 mapping:
   locations:
-    - title: Sea And Sand Inn
+    - title: Sea and Sand Inn
       latitude: 36.962512
       longitude: -122.025246
       link: https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Sea+and+Sand+Inn,+West+Cliff+Drive,+Santa+Cruz,+CA&aq=0&oq=sea&sll=36.962512,-122.025246&sspn=0.099443,0.198097&vpsrc=0&t=h&ie=UTF8&hq=Sea+and+Sand+Inn,+West+Cliff+Drive,+Santa+Cruz,+CA&ll=36.962169,-122.025533&spn=0.024861,0.049524&z=15&iwloc=A&cid=11767563974410813267
@@ -20,17 +20,14 @@ mapping:
 {% endcomment %}
 
 
-Here we come California!
+California here we come!
 =====
-
-Oh wait... but how do we get there?
------
 
 
 Nearest Airports
 -----
 - SFO (San Francisco International Airport)
-- SJC (Mineta San Jose International Airport)
+- SJC (San Jose International Airport)
 
 
 Hotels
@@ -38,5 +35,6 @@ Hotels
 - [Sea and Sand Inn](http://www.santacruzmotels.com/sea_and_sand.html)
 - [Dream Inn](http://www.jdvhotels.com/hotels/california/central-coast-hotels/santa-cruz-dream-inn)
 
+When booking with one of our hotels, be sure to mention you are a part of the Gaudio/Richter wedding party.
 
 {% render_map 500,500 %}
