@@ -47,7 +47,7 @@ Use our hashtag:  #alexdillemma
     // hack: instagram doesn't let you have multiple referers for oauth,
     // so I've instead created an extra client id for local development
     {% endcomment %}
-    {% if site.baseurl == '/wedding' %}
+    {% if site.baseurl != 'local' %}
       var clientId = '{{ site.instagram.client_id }}';
       var redirect_uri = '{{ site.instagram.redirect_uri }}';
     {% else %}
