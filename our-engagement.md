@@ -20,19 +20,19 @@ Emma: "Are you sure we have to go...I have to go to work..." <br>
 
 Well, that wasn't exactly true, since Alex had secretly run his plot by Emma's co-workers, and they already expected her to be out of the office for a week. In fact, Alex had spilled some or all of the beans to almost everyone (his co-workers, both sets of parents, friends, family members) in order to keep the secret from Emma for 5 months. He had even convinced her to take scuba diving classes, and despite keeping his email inbox very secret and staying up late every night, he succceed in springing the surprise!
 
-<a href="https://f.cloud.github.com/assets/6283968/2062421/122fc9c4-8c8c-11e3-83f4-da5d78017c7a.JPG"><img width="100%" src="https://f.cloud.github.com/assets/6283968/2062421/122fc9c4-8c8c-11e3-83f4-da5d78017c7a.JPG"> </a>
+<img width="100%" src="https://f.cloud.github.com/assets/860369/2072660/d582cc08-8d42-11e3-8eee-aedc9c53de73.jpg">
 
 Of course Emma warmed up to the idea, and by midnight they were boarding a plane at Newark Aiport for Bonaire.
 
-<a href="https://f.cloud.github.com/assets/6283968/2062423/2f69ee48-8c8c-11e3-94ef-f5d2433905d0.JPG"><img width="100%" src="https://f.cloud.github.com/assets/6283968/2062423/2f69ee48-8c8c-11e3-94ef-f5d2433905d0.JPG"> </a>
+<img width="100%" src="https://f.cloud.github.com/assets/860369/2072657/d57f0f1e-8d42-11e3-9604-5d37d6649af5.jpg">
 
 They arrived to thick, sweaty air, an airid landscape and stunning turquoise water. After an hour's nap, it was time for Emma to meet her Dive Master to complete her coursework. Two days into the trip, Emma had been on 4 dives and gotten her Open Water Diver certification. Alex and Emma could now dive completely on their own!
 
-<a href="https://f.cloud.github.com/assets/6283968/2062426/4c4134cc-8c8c-11e3-8602-39b67d6587f7.JPG"><img width="100%" src="https://f.cloud.github.com/assets/6283968/2062426/4c4134cc-8c8c-11e3-8602-39b67d6587f7.JPG"> </a>
+<img width="100%" src="https://f.cloud.github.com/assets/860369/2072659/d5814fae-8d42-11e3-97ad-771934299d15.jpg">
 
 They drove a white pick-up truck around the island, pulling up on beaches, gearing up and diving into the surf. The diving was perfect - 80 degree F water temperatures, excellent visibility, and brightly colored corals and fish at depths as little as 30 feet. They picked up lunches at the local supermarket, amongst the island natives who spoke English, Dutch, and Papiamentu (local creole language). At night, they walked along the water to find a place to eat, and despite the endless onslaught of mosquitos, relaxed to the rhythm of island life.
 
-<a href="https://f.cloud.github.com/assets/6283968/2062442/da079a4e-8c8c-11e3-9253-0e038e156ee8.JPG"><img width="100%" src="https://f.cloud.github.com/assets/6283968/2062442/da079a4e-8c8c-11e3-9253-0e038e156ee8.JPG"> </a>
+<img width="100%" src="https://f.cloud.github.com/assets/860369/2072658/d57fdf16-8d42-11e3-940f-5889f400e749.jpg">
 
 Halfway through the trip, Alex had scheduled a night dive. Rightly so, Emma was nervous about diving at night with only a flashlight in hand. He assured her they would see fish hunting and many exciting sights you couldn't see during the day. She didn't want to disappoint him, so she nervously agreed.
 
@@ -46,14 +46,14 @@ As the black light revealed the message (written in invisble ink), Emma read:
 
 <i>"Dear Bubba, will you marry me?"</i>
 
-<a href="https://f.cloud.github.com/assets/6283968/2062448/ffbcc336-8c8c-11e3-84cb-6296b8fba841.JPG"><img width="100%" src="https://f.cloud.github.com/assets/6283968/2062448/ffbcc336-8c8c-11e3-84cb-6296b8fba841.JPG"> </a>
+<img width="100%" src="https://f.cloud.github.com/assets/860369/2072661/d5842b5c-8d42-11e3-897a-114e9673c4cd.jpg">
 
 The night dive was overwhelming enough, but this really put Emma, the new diver, to the test! Luckily, she did not shoot to the surface or stop breathing! She looked at the message and at Alex's magnified eyes through his mask, and motioned with her hand "ok" "ok" "ok" (and gave him a face that said, this is great, but can we get out of here now?)!
 
 They spent the next few days diving (only during the day!) and adjusting to their newly engaged status (with seemingly awkward terms like "fiance" -- they prefer to say, my "beyonce").
 
-<a href="https://f.cloud.github.com/assets/6283968/2062429/5f285980-8c8c-11e3-9c1f-d574b1a466e0.JPG"><img width="100%" src="https://f.cloud.github.com/assets/6283968/2062429/5f285980-8c8c-11e3-9c1f-d574b1a466e0.JPG"> </a>
+<img width="100%" src="https://f.cloud.github.com/assets/860369/2072662/d5882d7e-8d42-11e3-8e88-b57ba7481f62.jpg">
 
 And that is the end of the fish's tale of how Emma and Alex were engaged under the sea!
 
-<a href="https://f.cloud.github.com/assets/6283968/2062435/8af36d3e-8c8c-11e3-9790-41b3b03e7970.JPG"><img width="100%" src="https://f.cloud.github.com/assets/6283968/2062435/8af36d3e-8c8c-11e3-9790-41b3b03e7970.JPG"> </a>
+<img width="100%" src="https://f.cloud.github.com/assets/860369/2072663/d5885484-8d42-11e3-8a9b-e9e5ca7fc638.jpg">
