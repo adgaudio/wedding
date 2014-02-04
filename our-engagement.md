@@ -46,7 +46,7 @@ As the black light revealed the message (written in invisble ink), Emma read:
 
 <i>"Dear Bubba, will you marry me?"</i>
 
-<img width="100%" src="{{ site.baseurl }}/img/i5.JPG.2.jpg">
+<img  width="60%" src="{{ site.baseurl }}/img/i5.JPG.2.jpg">
 
 
 The night dive was overwhelming enough, but this really put Emma, the new diver, to the test! Luckily, she did not shoot to the surface or stop breathing! She looked at the message and at Alex's magnified eyes through his mask, and motioned with her hand "ok" "ok" "ok" (and gave him a face that said, this is great, but can we get out of here now?)!
