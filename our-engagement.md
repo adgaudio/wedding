@@ -36,11 +36,11 @@ They drove a white pick-up truck around the island, pulling up on beaches, geari
 
 Halfway through the trip, Alex had scheduled a night dive. Rightly so, Emma was nervous about diving at night with only a flashlight in hand. He assured her they would see fish hunting and many exciting sights you couldn't see during the day. She didn't want to disappoint him, so she nervously agreed.
 
-They waded into the water with the Dive Master at sunset and agreed on their dive plan.  Alex had his two dive lights that he had modified using parts that he had printed on his home-made 3-D printer back in New York at the ready. They descended into the darkness and began to swim along.
+They waded into the water with the Dive Master at sunset and agreed on their dive plan.  Alex had his two dive lights (that he had modified using parts he printed on his homemade 3-D printer back in New York) at the ready. They descended into the darkness and began to swim along.
 
-Emma was so nervous she followed the Dive Master's fins closely and clenched Alex's hand as they swam along. As the dive progressed, she relaxed a little, but never let go of his hand.  As discussed, they made a stop on a sandbed and turned off their dive lights.  As their eyes adjusted to the pitch black, the lights and colors of the bioluminescent plankton floating all around them began to to pop out from the darkness like a shower of fireworks.
+Emma was so nervous she followed the Dive Master's fins closely and clenched Alex's hand as they swam along. As the dive progressed, she relaxed a little, but never let go of his hand.  As discussed, they made a stop on a sandbed and turned off their dive lights.  As their eyes adjusted to the pitch black, the lights and colors of the bioluminescent plankton floating all around them began to pop out from the darkness like a shower of fireworks.
 
-As the Dive Master began to swim away, and Emma turned to follow, Alex knew this was his moment. He removed his prepared message from his vest pocket, a plastic ring he had printed on his 3-D printer, and a black light, and thrust the objects in front of Emma.
+As the Dive Master began to swim away, and Emma turned to follow, Alex knew this was his moment. He removed his prepared (laminated) message from his vest pocket, a plastic ring he had printed on his 3-D printer, and a black light, and thrust the objects in front of Emma.
 
 As the black light revealed the message (written in invisble ink), Emma read:
 
@@ -51,7 +51,7 @@ As the black light revealed the message (written in invisble ink), Emma read:
 
 The night dive was overwhelming enough, but this really put Emma, the new diver, to the test! Luckily, she did not shoot to the surface or stop breathing! She looked at the message and at Alex's magnified eyes through his mask, and motioned with her hand "ok" "ok" "ok" (and gave him a face that said, this is great, but can we get out of here now?)!
 
-They spent the next few days diving (only during the day!) and adjusting to their newly engaged status (with seemingly awkward terms like "fiance" -- they prefer to say, my "beyonce").
+They spent the next few days diving (only during the day!) and adjusting to their newly engaged status (and seemingly awkward terms like "fiance" -- they prefer to say, my "beyonce").
 
 <img width="100%" src="{{ site.baseurl }}/img/i6.JPG.2.jpg">
 
