@@ -7,7 +7,7 @@ site_classes: gray_background
 Our Story!
 ============
 
-Last May, after 5 1/2 wonderful years together, navigating the Bard experience, the exciting and stressful post-college period of job, apartment, and soul searching, culinary and world adventures, and the non-stop life of two 20-somethings in New York City, Emma came home from a particularly exhausting week at work to something unexpected.
+Last May, after 5-1/2 wonderful years together, navigating the Bard experience, the exciting and stressful post-college period of job, apartment, and soul searching, culinary and world adventures, and the non-stop life of two 20-somethings in New York City, Emma came home from a particularly exhausting week at work to something unexpected.
 
 <i>(key turns in lock and Emma opens the door to find Alex peeking out at her, wearing a ridiculous sun hat)</i>
 
@@ -22,11 +22,11 @@ Well, that wasn't exactly true, since Alex had secretly run his plot by Emma's c
 
 <img width="100%" src="{{ site.baseurl }}/img/i1.JPG.2.jpg">
 
-Of course Emma warmed up to the idea, and by midnight they were boarding a plane at Newark Aiport for Bonaire.
+Of course Emma warmed up to the idea, and by midnight they were boarding a plane at Newark Airport for Bonaire.
 
 <img width="100%" src="{{ site.baseurl }}/img/i2.JPG.2.jpg">
 
-They arrived to thick, sweaty air, an airid landscape, and stunning turquoise water. After an hour's nap, it was time for Emma to meet her Dive Master to complete her coursework. Two days into the trip, Emma had been on 4 dives and gotten her Open Water Diver certification. Alex and Emma could now dive completely on their own!
+They arrived to thick, sweaty air, an arid landscape, and stunning turquoise water. After an hour's nap, it was time for Emma to meet her Dive Master to complete her coursework. Two days into the trip, Emma had been on 4 dives and gotten her Open Water Diver certification. Alex and Emma could now dive completely on their own!
 
 <img width="100%" src="{{ site.baseurl }}/img/i3.JPG.2.jpg">
 
