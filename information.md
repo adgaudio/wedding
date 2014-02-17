@@ -30,7 +30,7 @@ California here we come!
 =====
 
 
-The beautiful city of Santa Cruz is located 1 hour and 15 miutes from San Francisco and 30 minutes from San Jose.  There is no easily accessible public transportation from the airports, so we suggest renting a car or taking the <a href="http://www.supershuttle.com/Locations/SFOAirportShuttleSanFrancisco.aspx" target="_blank">SuperShuttle</a>. The beach and downtown Santa Cruz are within walking distance from the hotels, so unless you are planning on doing other site-seeing, you do not necessarily need a car. We will provide transportation to and from hotels to the wedding location on September 13.
+The beautiful city of Santa Cruz is located 1 hour and 15 minutes from San Francisco and 30 minutes from San Jose.  There is no easily accessible public transportation from the airports, so we suggest renting a car or taking the <a href="http://www.supershuttle.com/Locations/SFOAirportShuttleSanFrancisco.aspx" target="_blank">SuperShuttle</a>. The beach and downtown Santa Cruz are within walking distance from the hotels, so unless you are planning on doing other sight-seeing, you do not necessarily need a car. We will provide transportation to and from hotels to the wedding location on September 13.
 
 
 Nearest Airports
@@ -38,7 +38,7 @@ Nearest Airports
 - SFO (San Francisco International Airport)
     - This is the biggest airport with the most non-stop flights
 - SJC (San Jose International Airport)
-    - Although closer to Santa Cruz, there are less flight options
+    - Although closer to Santa Cruz, there are fewer flight options
 
 Hotels
 -----
