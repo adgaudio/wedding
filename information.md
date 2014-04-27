@@ -45,6 +45,6 @@ Hotels
 - <a href="http://www.santacruzmotels.com/sea_and_sand.html" target="_blank">Sea and Sand Inn</a>
 - <a href="http://www.jdvhotels.com/hotels/california/central-coast-hotels/santa-cruz-dream-inn" target="_blank">Dream Inn</a>
 
-When booking with one of our hotels, be sure to mention you are a part of the Gaudio/Richter wedding party. Prices at the Dream Inn should be equivalent to those at the Sea and Sand Inn when you mention our names. Please don't spend $400 per night - If you have any questions, email us first!
+When booking with one of our hotels, be sure to mention you are a part of the Gaudio/Richter wedding party. Prices at the Dream Inn should be equivalent to those at the Sea and Sand Inn when you mention our names (~$250 per night).  If you have any questions, email us first!
 
 {% render_map 500,500 %}
