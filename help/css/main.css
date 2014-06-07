@@ -1,0 +1,106 @@
+html {
+  font-weight: bold;
+  font-family: "Sawasdee", "Kinnari", "Rekha", "Palatino", "NanumMyeongjo Bold", "Century Gothic", "Georgia", "Cooper Black";
+}
+body {
+  background-position: top;
+  background-size: cover;
+  background-image: url("/img/bubbas_beach.jpg");
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+}
+
+body > * {
+  /*Apply to children of body, which should be navbar and site (*/
+  border-radius:12px;
+  margin: 2.5%;
+  padding: 0;
+}
+
+#site {
+  width: 65%;
+  float:right;
+  padding: 0 2.5%;
+  min-width: 400px;
+}
+
+#navbar {
+  background-color: rgba(60, 120, 91, .9);
+  float:left;
+  width: 20%;
+  min-width: 200px;
+}
+#navbar ul{
+  text-align:right;
+  margin: 0;
+  padding: 0;
+  list-style-type:none;
+  border-radius: inherit;
+}
+#navbar ul li{
+  padding: 10px 10px;
+  background-color: rgba(60, 120, 91, 0);
+  border-radius: inherit;
+}
+#navbar ul li a{
+  background-color: rgba(60, 120, 91, .0);
+  text-decoration:none;
+  font-size: 120%;
+}
+#navbar ul li .purple_text {
+  color: rgb(070,040,150);
+  /*color: purple;*/
+}
+#navbar ul li:hover{
+  text-decoration:underline;
+  background-color: rgba(50, 120, 91, 1);
+}
+
+/*default color options*/
+.white_text, #navbar ul li a, #home * {
+  color: #DEF3DF;
+}
+a:hover {
+  color:purple;
+}
+.gray_background {
+  background-color: rgba(250,255,100, .25);
+  background-color: rgba(245,235,255, .45);
+}
+.gray_background * {
+  color: #121212;
+}
+
+/*page specific css*/
+#home {
+  text-align:center;
+  padding-top: 35%;
+  margin-left: 20%;
+}
+#home h1{
+  font-size: 500%;
+  margin: 0;
+  /*text-shadow: 1px 1px #474747;*/
+}
+#home h2{
+  /*text-shadow: 1px 1px #474747;*/
+}
+#home h3 {
+  /*text-shadow: 1px 1px #474747;*/
+}
+
+.instagram_image {
+  border-radius:12px;
+  height:151px !important;
+  width:150px !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 10px;
+}
+.instagram_image_holder {
+  border-radius:12px;
+  margin: 5px;
+  float: left;
+  background-color: #242424;
+}
+

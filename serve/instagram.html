@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Registry</title>
+        <title>Our instagram photos</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- CSS -->
@@ -29,22 +29,73 @@
         </ul>
       </div>
       <div id="site" class="gray_background">
-        <p><a href="https://secure.williams-sonoma.com/registry/mgx6vvhct7/registry-list.html"><img src="/img/williams-sonoma-registry-logo.jpg">
-</a></p>
+        <h1>Our Instagram Feed!</h1>
 
-<form width="100px" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="M8S6TW98KJ6P8">
-<input type="image" src="http://alexdillemma.com/img/kauai-logo.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<p>Please help us document our wedding by sharing your photos on Instagram.</p>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin: 15px">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="8HFLU9T879BV8">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<h2>Use our hashtag:  #alexdillemma</h2>
+
+<div id="instagram_authorize_oauth">
+<!--A link to let Instagram authorize this webpage-->
+</div>
+
+<div id="instafeed">
+<!--Instagram photos inserted here-->
+</div>
+
+<pre>
+  <script
+    type="text/javascript"
+    src="/js/instafeed.min.js">
+  </script>
+
+  <script type="text/javascript">
+    // Setup vars for an instagram feed using instafeedjs
+    
+    var data = {
+        get: 'tagged',
+        tagName: 'alexdillemma',
+        resolution: 'low_resolution',
+        sortBy: 'most-recent',
+        template: '<a href="{{link}}"><div class="instagram_image_holder"><div style="background-image:url({{image}})" class="instagram_image"></div></div></a>'
+    };
+    
+
+    // Add client_id
+    
+    
+      var clientId = 'd5a94fab34bd49cba895b1bc1b26a854';
+      var redirect_uri = 'http://alexdillemma.com/instagram.html';
+    
+    data['clientId'] = clientId;
+
+    // Try to add access token from url or session cache if possible
+    // hack: instagram returns access token as a hash, not as a query param
+    var accessToken = location.hash.split('=')[1];
+    var cache_key = redirect_uri + '--instagram_access_token--';
+    if (!accessToken) {
+      accessToken = window.sessionStorage.getItem(cache_key);
+    }
+    if (accessToken) {
+      data['accessToken'] = accessToken;
+      window.sessionStorage.setItem(cache_key, accessToken);
+    }
+
+    // run the instagram feed
+    var feed = new Instafeed(data);
+    feed.run();
+
+    // hack: add a link enabling people to view photos within their network
+    // if instagram let me have multiple referers, I wouldn't do it this way
+    var aTag = document.createElement('a');
+    aTag.setAttribute('href', 'https://instagram.com/oauth/authorize/?' + 
+      'client_id=' + clientId + '&redirect_uri=' + redirect_uri
+      + '&response_type=token');
+    aTag.innerHTML = "Login to Instagram to see more photos.";
+    document.getElementById("instagram_authorize_oauth").appendChild(aTag);
+
+  </script>
+</pre>
 
       </div>
     </body>
@@ -90,7 +141,7 @@ var jekyllMapping = (function () {
                 var mainMarker = new google.maps.Marker({
                     position: this.options.center,
                     map: this.map,
-                    title: "Registry"
+                    title: "Our instagram photos"
                 });
                 this.map.setCenter(this.options.center);
             }     

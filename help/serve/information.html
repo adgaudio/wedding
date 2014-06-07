@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Registry</title>
+        <title>Information</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- CSS -->
@@ -29,22 +29,35 @@
         </ul>
       </div>
       <div id="site" class="gray_background">
-        <p><a href="https://secure.williams-sonoma.com/registry/mgx6vvhct7/registry-list.html"><img src="/img/williams-sonoma-registry-logo.jpg">
-</a></p>
+        <h1>California here we come!</h1>
 
-<form width="100px" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="M8S6TW98KJ6P8">
-<input type="image" src="http://alexdillemma.com/img/kauai-logo.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<p>The beautiful city of Santa Cruz is located 1 hour and 15 minutes from San Francisco and 30 minutes from San Jose.  There is no easily accessible public transportation from the airports, so we suggest renting a car or taking the <a href="http://www.supershuttle.com/Locations/SFOAirportShuttleSanFrancisco.aspx" target="_blank">SuperShuttle</a>. The beach and downtown Santa Cruz are within walking distance from the hotels, so unless you are planning on doing other sight-seeing, you do not necessarily need a car. We will provide transportation to and from hotels to the wedding location on September 13.</p>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin: 15px">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="8HFLU9T879BV8">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<h2>Nearest Airports</h2>
+
+<ul>
+<li>SFO (San Francisco International Airport)
+
+<ul>
+<li>This is the biggest airport with the most non-stop flights</li>
+</ul></li>
+<li>SJC (San Jose International Airport)
+
+<ul>
+<li>Although closer to Santa Cruz, there are fewer flight options</li>
+</ul></li>
+</ul>
+
+<h2>Hotels</h2>
+
+<ul>
+<li><a href="http://www.santacruzmotels.com/sea_and_sand.html" target="_blank">Sea and Sand Inn</a></li>
+<li><a href="http://www.jdvhotels.com/hotels/california/central-coast-hotels/santa-cruz-dream-inn" target="_blank">Dream Inn</a></li>
+</ul>
+
+<p>When booking with one of our hotels, be sure to mention you are a part of the Gaudio/Richter wedding party. Prices at the Dream Inn should be equivalent to those at the Sea and Sand Inn when you mention our names (~$250 per night).  If you have any questions, email us first!</p>
+
+<div id="jekyll-mapping" style="height:500px;width:500px;"></div>
 
       </div>
     </body>
@@ -90,7 +103,7 @@ var jekyllMapping = (function () {
                 var mainMarker = new google.maps.Marker({
                     position: this.options.center,
                     map: this.map,
-                    title: "Registry"
+                    title: "Information"
                 });
                 this.map.setCenter(this.options.center);
             }     
@@ -139,6 +152,12 @@ var jekyllMapping = (function () {
     return obj;
 }());
 </script> 
+        
+    
+    
+            <script type="text/javascript">
+                window.onload = function () { jekyllMapping.loadScript({"provider":"google_js","api_key":"AIzaSyD0Asjhx5wcn57L_yMhKAq1ePlb68QI6cY","zoom":10,"dimensions":{"width":600,"height":400},"locations":[{"title":"Sea and Sand Inn","latitude":36.962512,"longitude":-122.025246,"link":"https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Sea+and+Sand+Inn,+West+Cliff+Drive,+Santa+Cruz,+CA&aq=0&oq=sea&sll=36.962512,-122.025246&sspn=0.099443,0.198097&vpsrc=0&t=h&ie=UTF8&hq=Sea+and+Sand+Inn,+West+Cliff+Drive,+Santa+Cruz,+CA&ll=36.962169,-122.025533&spn=0.024861,0.049524&z=15&iwloc=A&cid=11767563974410813267"},{"title":"Dream Inn","latitude":36.963403,"longitude":-122.024902,"link":"https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Dream+Inn,+West+Cliff+Drive,+Santa+Cruz,+CA&aq=&sll=36.962169,-122.025533&sspn=0.024861,0.049524&vpsrc=0&t=h&ie=UTF8&hq=Dream+Inn,&hnear=W+Cliff+Dr,+Santa+Cruz,+California+95060&ll=36.963643,-122.025275&spn=0.02486,0.049524&z=15&iwloc=A&cid=4076966699112695307"},{"title":"San Jose Airport","latitude":37.373431,"longitude":-121.929901},{"title":"San Francisco Airport","latitude":37.6189,"longitude":-122.375}]}) };
+            </script>
         
     
 
