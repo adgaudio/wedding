@@ -34,8 +34,8 @@ body > * {
 }
 
 #site * img {
-  margin-top: 2%;
-  margin-bottom: 2%;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 #navbar {

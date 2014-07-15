@@ -7,7 +7,7 @@ site_classes: gray_background
 The Special Story Behind our Wedding Invitations
 =======
 
-###This June, we spent 4 blissful days letterpress printing our wedding invitations at the studio of master printmaker, poet, and good friend Gary Young.
+This June, we spent 4 blissful days letterpress printing our wedding invitations at the studio of master printmaker, poet, and good friend Gary Young.
 
 <div>
 {% comment %} # alex and gary {% endcomment %}
@@ -17,12 +17,12 @@ The Special Story Behind our Wedding Invitations
 <img width=47% style="float: left;" src="{{ site.baseurl }}/img/invitations/2014-06-16 16.25.32.jpg">
 </div>
 
-###The invitations were printed letterpress from magnesium photoengravings on an 1888 Chandler & Price treadle-powered platen press. The press was powered by foot, fed by hand, and the invitations required seven separate press runs.
+The invitations were printed letterpress from magnesium photoengravings on an 1888 Chandler & Price treadle-powered platen press. The press was powered by foot, fed by hand, and the invitations required seven separate press runs.
 
 {% comment %} # press {% endcomment %}
 <img width=400px src="{{ site.baseurl }}/img/invitations/2014-06-16 18.17.19.jpg">
 
-###Every invite features a print of a ink drawing done by Carla B. Gaudio (Alex's mom). The paper is Rives BFK, a fine French printmaking sheet.
+Every invite features a print of a ink drawing done by Carla B. Gaudio (Alex's mom). The paper is Rives BFK, a fine French printmaking sheet.
 
 
 {% comment %} # mom's print {% endcomment %}
@@ -31,12 +31,12 @@ The Special Story Behind our Wedding Invitations
 <img style="float: left;" width=47% src="{{ site.baseurl }}/img/invitations/2014-06-16 19.48.04.jpg">
 
 
-###We all took turns wearing the pressman's hat, a paper hat style worn by press operators as early as 1748.
+We all took turns wearing the pressman's hat, a paper hat style worn by press operators as early as 1748.
 
 {% comment %} # emma pretty {% endcomment %}
 <img width=400px src="{{ site.baseurl }}/img/invitations/2014-06-16 16.28.51.jpg">
 
-###All in all, this was a very personal and special experience that we will remember for years to come.
+All in all, this was a very personal and special experience that we will remember for years to come.
 
 {% comment %} # emma working {% endcomment %}
 <img width=600px src="{{ site.baseurl }}/img/invitations/IMAG0353.jpg">
