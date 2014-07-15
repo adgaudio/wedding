@@ -3,7 +3,7 @@ layout: default
 title: What to Bring
 site_classes: gray_background
 ---
-#What to Bring?
+#Wardrobe Advice
 
 September is a beautiful month in Santa Cruz, with sunny warm days and comfortably cool evenings with little fog compared to other times of year. By the water, temperatures will sit mostly in the 60s and 70s, with the coolest temperatures in the mid-50s and the warmest temperatures in the mid-80s.  The temperature of Monterey Bay is a "refreshing" 60 degrees F, but the pool at the Dream Inn will be much warmer, if you are thinking of swimming.  The dress in Santa Cruz is "laid-back surfer," and you should feel comfortable walking around town with jeans, shorts, flip flops, and sweatshirts (called "hoodies" by the locals).  Here are a couple suggestions regarding each of our weekend events:
 
