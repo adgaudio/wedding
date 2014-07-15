@@ -26,6 +26,7 @@ body > * {
 
 #navbar {
   background-color: rgba(60, 120, 91, .9);
+  font-family: Copperplate, sans-serif;
   float:left;
   width: 20%;
   min-width: 200px;
