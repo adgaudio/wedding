@@ -1,6 +1,7 @@
 html {
   /* font-weight: bold; */
   font-family: Verdana, Geneva, sans-serif;
+  line-height: 150%;
 }
 body {
   background-position: top;
