@@ -25,6 +25,13 @@ body > * {
   min-width: 400px;
 }
 
+#site h1 {
+  text-align: center;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  line-height: 120%;
+}
+
 #navbar {
   background-color: rgba(60, 120, 91, .9);
   float:left;
