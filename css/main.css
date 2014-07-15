@@ -80,6 +80,8 @@ a:hover {
 #home h1{
   font-size: 500%;
   margin: 0;
+  font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+
   /*text-shadow: 1px 1px #474747;*/
 }
 #home h2{
