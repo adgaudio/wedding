@@ -79,7 +79,7 @@ a:hover {
 }
 .gray_background {
   background-color: rgba(250,255,100, .25);
-  background-color: rgba(245,235,255, .45);
+  background-color: rgba(245,235,255, .55);
 }
 .gray_background * {
   color: #121212;
