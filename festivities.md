@@ -13,4 +13,4 @@ On **Saturday, September 13**, we ask that you arrive at our wedding site in Bon
 
 We will have a casual brunch the morning of **Sunday, September 14** for those guests who wish to stop by and wish the happy couple off on their honeymoon! Location details will be emailed to attendees.
 
-If you are booking plane flights or driving to Santa Cruz, we recommend arriving Friday early afternoon and booking a hotel room for both 9/12 and 9/13. [See details on travel and hotels.](information.html#site)
+If you are booking plane flights or driving to Santa Cruz, we recommend arriving Friday early afternoon and booking a hotel room for both 9/12 and 9/13. [See details on travel and hotels.](travel-and-hotels.html#site)
