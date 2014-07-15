@@ -85,6 +85,8 @@ a:hover {
 }
 #home h2{
   /*text-shadow: 1px 1px #474747;*/
+  margin: 5%;
+  margin-top: 10%;
 }
 #home h3 {
   /*text-shadow: 1px 1px #474747;*/
