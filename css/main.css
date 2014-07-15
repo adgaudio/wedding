@@ -1,6 +1,6 @@
 html {
-  font-weight: bold;
-  font-family: "Sawasdee", "Kinnari", "Rekha", "Palatino", "NanumMyeongjo Bold", "Century Gothic", "Georgia", "Cooper Black";
+  /* font-weight: bold; */
+  font-family: "Perpetua", "Monaco", "Consolas", "Lucinda Console", "Sawasdee", "Palatino";
 }
 body {
   background-position: top;
