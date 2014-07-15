@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Information
@@ -30,7 +31,7 @@ California here we come!
 =====
 
 
-The beautiful city of Santa Cruz is located 1 hour and 15 minutes from San Francisco and 30 minutes from San Jose.  There is no easily accessible public transportation from the airports, so we suggest renting a car or taking the <a href="http://www.supershuttle.com/Locations/SFOAirportShuttleSanFrancisco.aspx" target="_blank">SuperShuttle</a>. The beach and downtown Santa Cruz are within walking distance from the hotels, so unless you are planning on doing other sight-seeing, you do not necessarily need a car. We will provide transportation to and from hotels to the wedding location on September 13.
+The beautiful city of Santa Cruz is located 1 hour and 15 minutes from San Francisco and 30 minutes from San Jose.  There is no easily accessible public transportation from the airports, so we suggest renting a car or taking the <a href="http://www.supershuttle.com/Locations/SFOAirportShuttleSanFrancisco.aspx" target="_blank">SuperShuttle</a>. The beach and downtown Santa Cruz are within walking distance from the hotels, so unless you are planning on doing other sight-seeing, you do not necessarily need a car. We will provide shuttles to and from hotels to the wedding location on September 13.
 
 
 Nearest Airports
@@ -45,6 +46,5 @@ Hotels
 - <a href="http://www.santacruzmotels.com/sea_and_sand.html" target="_blank">Sea and Sand Inn</a>
 - <a href="http://www.jdvhotels.com/hotels/california/central-coast-hotels/santa-cruz-dream-inn" target="_blank">Dream Inn</a>
 
-When booking with one of our hotels, be sure to mention you are a part of the Gaudio/Richter wedding party. Prices at the Dream Inn should be equivalent to those at the Sea and Sand Inn when you mention our names (~$250 per night).  If you have any questions, email us first!
-
+If you still need a hotel room for the wedding weekend, please call or email Emma as soon as possible, and she can arrange a room for you. Two room types are still available at the Dream Inn, and they are Deluxe King Rooms at $239/night and Deluxe Queen/Queen Rooms at $269/night.
 {% render_map 500,500 %}
