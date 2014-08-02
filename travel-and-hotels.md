@@ -30,7 +30,7 @@ California here we come!
 =====
 
 
-The beautiful city of Santa Cruz is located 1 hour and 15 minutes from San Francisco and 30 minutes from San Jose.  For our out of town guests, here's what you should do: buy a plane ticket to SFO, rent a car or hitch a ride to Santa Cruz, get a hotel room.  We've outlined those three steps below!
+The beautiful city of Santa Cruz is located 1 hour and 15 minutes from San Francisco and 30 minutes from San Jose.  For our out of town guests, here's what you should do: buy a plane ticket to SFO, rent a car or hitch a ride to Santa Cruz, and get a hotel room.  We outline these steps below:
 
 
 Transportation
