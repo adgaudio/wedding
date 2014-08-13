@@ -35,10 +35,11 @@ The beautiful city of Santa Cruz is located 1 hour and 15 minutes from San Franc
 
 Transportation
 -----
-If you're coming from the airport, you should know that public transportation is not your best option.  We suggest renting a car, taking the <a href="http://www.supershuttle.com/Locations/SFOAirportShuttleSanFrancisco.aspx" target="_blank">SuperShuttle</a> or [Santa Cruz Flyer](http://www.santacruzflyer.com/), or hitching a ride via [RideJoy Car Share](http://ridejoy.com/).  For those without cars, we will provide shuttles to and from hotels and the wedding location on September 13.
+If you're coming from the airport, you should know that public transportation is not your best option.  We suggest renting a car, taking the <a href="http://www.supershuttle.com/Locations/SFOAirportShuttleSanFrancisco.aspx" target="_blank">SuperShuttle</a> or [Santa Cruz Flyer](http://www.santacruzflyer.com/), or hitching a ride.  For those without cars, we will provide shuttles to and from hotels and the wedding location on September 13.
 
-If you are renting a car or can offer someone a ride into Santa Cruz, consider posting on [RideJoy](http://ridejoy.com/) so our guests can see you have an extra seat or two.  This is a public service, so be careful and verify the rider is someone trustworthy!
+If you are renting a car or can offer someone a ride into Santa Cruz, [please consider posting on our forum](http://alexdillemma.freeforums.net/).
 
+[Transportation details available on our forum](http://alexdillemma.freeforums.net/).
 
 Nearest Airports
 -----
