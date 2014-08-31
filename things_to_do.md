@@ -12,14 +12,11 @@ In case we aren't keeping you busy enough during your stay in Santa Cruz, here i
 
 Walking, Running, and Biking
 ----------------
-- [West Cliff Drive](http://hilltromper.com/article/west-cliff-drive):
-  Exit out of the Dream Inn and Sea & Sand Inn and walk to your left (or right if you are at The Darling House) on the walking/bike path. Walk to the lighthouse and see the surfers and sea lions or walk even further (the whole trail is about 4 miles roundtrip).
+- [West Cliff Drive](http://hilltromper.com/article/west-cliff-drive): Exit out of the Dream Inn and Sea & Sand Inn and walk to your left (or right if you are at The Darling House) on the walking/bike path. Walk to the lighthouse and see the surfers and sea lions or walk even further (the whole trail is about 4 miles roundtrip).
 
-- [Wilder Ranch State Park](http://hilltromper.com/article/wilder-ranch):
-  Explore the preserved ranch buildings and seaside trail. Wilder Ranch is about a mile north of Santa Cruz on Highway 1.
+- [Wilder Ranch State Park](http://hilltromper.com/article/wilder-ranch): Explore the preserved ranch buildings and seaside trail. Wilder Ranch is about a mile north of Santa Cruz on Highway 1.
 
-- [Henry Cowell Redwoods State Park]http://hilltromper.com/article/henry-cowell):
-  Drive 20 minutes inland from Santa Cruz into the Santa Cruz Mountains and walk amongst the giant redwood trees!
+- [Henry Cowell Redwoods State Park](http://hilltromper.com/article/henry-cowell): Drive 20 minutes inland from Santa Cruz into the Santa Cruz Mountains and walk amongst the giant redwood trees!
 
 - Other Trails and Outdoors Adventures on [Hilltromper.com](http://hilltromper.com/parks-and-recreation)
 
@@ -28,22 +25,18 @@ Walking, Running, and Biking
 
 Beaches and Tidepools
 ---------------------
-- [Natural Bridges State Beach and Tidepools](http://hilltromper.com/article/natural-bridges-state-beach)
-  Our favorite tidepooling spot is at Natural Bridges. This beach and park is at the opposite end of West Cliff Drive from your hotel.
+- [Natural Bridges State Beach and Tidepools](http://hilltromper.com/article/natural-bridges-state-beach): Our favorite tidepooling spot is at Natural Bridges. This beach and park is at the opposite end of West Cliff Drive from your hotel.
   
-- [Cowells Beach](http://hilltromper.com/article/cowells)
-  The closest beach to the hotels right in front of the Dream Inn.
+- [Cowells Beach](http://hilltromper.com/article/cowells): The closest beach to the hotels right in front of the Dream Inn.
 
 - Other Beaches on [Hilltromper.com](http://hilltromper.com/parks-and-recreation)
 
 
 Fun Places to Explore
 ---------------------
-- [Pacific Avenue in downtown Santa Cruz](https://www.google.com/maps/dir/Sea+and+Sand+Inn,+201+W+Cliff+Dr,+Santa+Cruz,+CA+95060/Hoffman's+Downtown,+1102+Pacific+Ave,+Santa+Cruz,+CA+95060/@36.9664432,-122.0339618,15z/data=!4m15!4m14!1m5!1m1!1s0x808e6a9a97339a6f:0xa34ec9166670bf53!2m2!1d-122.025447!2d36.960861!1m5!1m1!1s0x808e402794c6a1ab:0xe49b4a53733d74df!2m2!1d-122.025246!2d36.972026!3e0!5i2)
-  It's a few minutes drive or a 20 minute walk from the hotel to meander on Pacific Avenue for shops, restaurants, sweets, and a lot of local Santa Cruz color (hippies!).
+- [Pacific Avenue in downtown Santa Cruz](https://www.google.com/maps/dir/Sea+and+Sand+Inn,+201+W+Cliff+Dr,+Santa+Cruz,+CA+95060/Hoffman's+Downtown,+1102+Pacific+Ave,+Santa+Cruz,+CA+95060/@36.9664432,-122.0339618,15z/data=!4m15!4m14!1m5!1m1!1s0x808e6a9a97339a6f:0xa34ec9166670bf53!2m2!1d-122.025447!2d36.960861!1m5!1m1!1s0x808e402794c6a1ab:0xe49b4a53733d74df!2m2!1d-122.025246!2d36.972026!3e0!5i2): It's a few minutes drive or a 20 minute walk from the hotel to meander on Pacific Avenue for shops, restaurants, sweets, and a lot of local Santa Cruz color (hippies!).
 
-- [Santa Cruz Beach Boardwalk](http://beachboardwalk.com/)
-  Ride the 5th oldest rollercoaster in the U.S.! [Click here for September weekend hours](http://beachboardwalk.com/hours/)
+- [Santa Cruz Beach Boardwalk](http://beachboardwalk.com/): Ride the 5th oldest rollercoaster in the U.S.! [Click here for September weekend hours](http://beachboardwalk.com/hours/)
 
 - Movies downtown at the old-school movie theatre, [The Del Mar](https://www.google.com/maps/place/Del+Mar+Theatre/@36.972481,-122.025426,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4027c78dbe8b:0x32b0508b1a7d4e44)
 
@@ -51,9 +44,9 @@ Favorite Eateries
 -----------------
 - Any Taquerías! Favorites include:
   
-  Near the hotel at [Las Palmas](https://www.google.com/maps/place/Las+Palmas+Taco+Bar/@36.963941,-122.024871,17z/data=!3m1!4b1!4m2!3m1!1s0x808e6a9b1cdfb307:0x610c95b08f154b)
-  On Pacific Avenue at [El Palomar Taco Bar](https://www.google.com/maps/place/El+Palomar/@36.974022,-122.026006,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40263d4f495b:0xd9620cefb54e12f0) 
-  On the Wharf at [Olitas](https://www.google.com/maps/place/Olitas+Cantina+%26+Grille/@36.958976,-122.018498,17z/data=!3m1!4b1!4m2!3m1!1s0x808e6a9afc81023b:0x9908643c8de3e8f5) 
+  Near the hotel at [Las Palmas](https://www.google.com/maps/place/Las+Palmas+Taco+Bar/@36.963941,-122.024871,17z/data=!3m1!4b1!4m2!3m1!1s0x808e6a9b1cdfb307:0x610c95b08f154b)<p></p>
+  On Pacific Avenue at [El Palomar Taco Bar](https://www.google.com/maps/place/El+Palomar/@36.974022,-122.026006,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40263d4f495b:0xd9620cefb54e12f0)<p></p> 
+  On the Wharf at [Olitas](https://www.google.com/maps/place/Olitas+Cantina+%26+Grille/@36.958976,-122.018498,17z/data=!3m1!4b1!4m2!3m1!1s0x808e6a9afc81023b:0x9908643c8de3e8f5)<p></p> 
 
 - Coffee:
 
@@ -79,20 +72,3 @@ Favorite Eateries
   Downtown at [Penny Ice Creamery](https://www.google.com/maps/place/The+Penny+Ice+Creamery/@36.975329,-122.026188,17z/data=!4m2!3m1!1s0x808e4028b288686d:0x148bb4e5b52e6d01)
   On Pacific Avenue at [Mission Hill Creamery](https://www.google.com/maps/place/The+Penny+Ice+Creamery/@36.975329,-122.026188,17z/data=!4m2!3m1!1s0x808e4028b288686d:0x148bb4e5b52e6d01)
   
-
-subtitle
----------
-
-### sub-sub title
-
-[link text](www.blah.com)
-
-- bullet point 1
-- point 2
-
-1. number 1
-2. this is not number 2
-
-**bold  text**
-
-*italics I think*
