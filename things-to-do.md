@@ -53,7 +53,7 @@ Favorite Eateries
   Locally sourced, California fare on Pacific Avenue at [Assembly](https://www.google.com/maps/place/Assembly/@36.972032,-122.025434,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4027bfeed965:0x86446284b7efdc2b)<p></p>
   Great burgers a short drive away at the Swift Street Courtyard at [West End Tap and Kitchen](https://www.google.com/maps/place/West+End+Tap+and+Kitchen/@36.959201,-122.047307,19z/data=!3m1!4b1!4m2!3m1!1s0x808e6a7a2db5bdc9:0xa372cd3c71367db5)<p></p>
   Contemporary Mediterranean on Pacific Avenue at [Laili](https://www.google.com/maps/place/Laili+Restaurant/@36.975329,-122.026188,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40260f331825:0x22723cf9d60f127b)<p></p>
-  Sandwiches on Pacific Avenue at [Zoccoli's](https://www.google.com/maps/preview?ie=UTF-8&fb=1&gl=us&sll=36.976078,-122.026449&sspn=0.0263308,0.0439463&cid=14231456313119076022&q=Zoccoli%27s+Delicatessen&ei=1q0DVNfgCIrzgwSpn4Fg&sqi=2&ved=0CIIBEPwSMAs)
+  Sandwiches on Pacific Avenue at [Zoccoli's](https://www.google.com/maps/preview?ie=UTF-8&fb=1&gl=us&sll=36.976078,-122.026449&sspn=0.0263308,0.0439463&cid=14231456313119076022&q=Zoccoli%27s+Delicatessen&ei=1q0DVNfgCIrzgwSpn4Fg&sqi=2&ved=0CIIBEPwSMAs)<p></p>
   Organic, farm-to-table Italian in downtown Santa Cruz at [Gabriella Cafe](https://www.google.com/maps/place/Gabriella+Cafe/@36.974705,-122.027457,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4028ade98ebf:0xb10021e151f2747b)
 
 - **Wine and Beer**:<p></p>
