@@ -58,10 +58,10 @@ Favorite Eateries
 
 - **Wine and Beer**:<p></p>
   
-  Wine store and tasting room at off of Pacific Avenue at [Vinocruz](https://www.google.com/maps/place/Vinocruz/@36.974778,-122.025562,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4026133fc1d7:0x16c6e0b0785c4147)<p></p>
+  Wine store and tasting room off of Pacific Avenue at [Vinocruz](https://www.google.com/maps/place/Vinocruz/@36.974778,-122.025562,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4026133fc1d7:0x16c6e0b0785c4147)<p></p>
   Off of Pacific Avenue at [Soif Wine Bar](https://www.google.com/maps/place/Soif+Restaurant+Wine+Bar+%26+Merchants/@36.97331,-122.026413,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40262e165a15:0x57f88ef6cde775ff)<p></p>
   Breweries and Wineries a short drive away at the [Swift Street Courtyard](http://santacruzlife.com/swift-street-courtyard/)
 
 - **Ice Cream**:
 
-  Downtown at [Penny Ice Creamery](https://www.google.com/maps/place/The+Penny+Ice+Creamery/@36.975329,-122.026188,17z/data=!4m2!3m1!1s0x808e4028b288686d:0x148bb4e5b52e6d01)and on Pacific Avenue at [Mission Hill Creamery](https://www.google.com/maps/place/The+Penny+Ice+Creamery/@36.975329,-122.026188,17z/data=!4m2!3m1!1s0x808e4028b288686d:0x148bb4e5b52e6d01)
+  Downtown at [Penny Ice Creamery](https://www.google.com/maps/place/The+Penny+Ice+Creamery/@36.975329,-122.026188,17z/data=!4m2!3m1!1s0x808e4028b288686d:0x148bb4e5b52e6d01) and on Pacific Avenue at [Mission Hill Creamery](https://www.google.com/maps/place/The+Penny+Ice+Creamery/@36.975329,-122.026188,17z/data=!4m2!3m1!1s0x808e4028b288686d:0x148bb4e5b52e6d01)
