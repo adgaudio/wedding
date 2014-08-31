@@ -42,13 +42,13 @@ Fun Places to Explore
 
 Favorite Eateries
 -----------------
-- <u>Any Taquerías!< /u><p></p>Favorites include: Near the hotel at [Las Palmas](https://www.google.com/maps/place/Las+Palmas+Taco+Bar/@36.963941,-122.024871,17z/data=!3m1!4b1!4m2!3m1!1s0x808e6a9b1cdfb307:0x610c95b08f154b), on Pacific Avenue at [El Palomar Taco Bar](https://www.google.com/maps/place/El+Palomar/@36.974022,-122.026006,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40263d4f495b:0xd9620cefb54e12f0), and on the Wharf at [Olitas](https://www.google.com/maps/place/Olitas+Cantina+%26+Grille/@36.958976,-122.018498,17z/data=!3m1!4b1!4m2!3m1!1s0x808e6a9afc81023b:0x9908643c8de3e8f5). 
+- **Any Taquerías!**<p></p>Favorites include: Near the hotel at [Las Palmas](https://www.google.com/maps/place/Las+Palmas+Taco+Bar/@36.963941,-122.024871,17z/data=!3m1!4b1!4m2!3m1!1s0x808e6a9b1cdfb307:0x610c95b08f154b), on Pacific Avenue at [El Palomar Taco Bar](https://www.google.com/maps/place/El+Palomar/@36.974022,-122.026006,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40263d4f495b:0xd9620cefb54e12f0), and on the Wharf at [Olitas](https://www.google.com/maps/place/Olitas+Cantina+%26+Grille/@36.958976,-122.018498,17z/data=!3m1!4b1!4m2!3m1!1s0x808e6a9afc81023b:0x9908643c8de3e8f5). 
 
-- <u>Coffee< /u>:
+- **Coffee**:
 
   On Pacific Avenue at [Lulu Carpenter's](https://www.google.com/maps/place/Lulu's+at+the+Octagon/@36.97506,-122.025636,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40267330cef1:0x986cc54f561e3525) and on Pacific Avenue at [Verve Coffee Roasters](https://www.google.com/maps/search/verve+coffee/@36.97506,-122.025636,15z/data=!3m1!4b1)
   
-- <u>Lunch and Dinner< /u>:<p></p>
+- **Lunch and Dinner**:<p></p>
   
   Locally sourced, California fare on Pacific Avenue at [Assembly](https://www.google.com/maps/place/Assembly/@36.972032,-122.025434,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4027bfeed965:0x86446284b7efdc2b)<p></p>
   Great burgers a short drive away at the Swift Street Courtyard at [West End Tap and Kitchen](https://www.google.com/maps/place/West+End+Tap+and+Kitchen/@36.959201,-122.047307,19z/data=!3m1!4b1!4m2!3m1!1s0x808e6a7a2db5bdc9:0xa372cd3c71367db5)<p></p>
@@ -56,12 +56,12 @@ Favorite Eateries
   Sandwiches on Pacific Avenue at [Zoccoli's](https://www.google.com/maps/preview?ie=UTF-8&fb=1&gl=us&sll=36.976078,-122.026449&sspn=0.0263308,0.0439463&cid=14231456313119076022&q=Zoccoli%27s+Delicatessen&ei=1q0DVNfgCIrzgwSpn4Fg&sqi=2&ved=0CIIBEPwSMAs)
   Organic, farm-to-table Italian in downtown Santa Cruz at [Gabriella Cafe](https://www.google.com/maps/place/Gabriella+Cafe/@36.974705,-122.027457,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4028ade98ebf:0xb10021e151f2747b)
 
-- <u>Wine and Beer< /u>:<p></p>
+- **Wine and Beer**:<p></p>
   
   Wine store and tasting room at off of Pacific Avenue at [Vinocruz](https://www.google.com/maps/place/Vinocruz/@36.974778,-122.025562,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4026133fc1d7:0x16c6e0b0785c4147)<p></p>
   Off of Pacific Avenue at [Soif Wine Bar](https://www.google.com/maps/place/Soif+Restaurant+Wine+Bar+%26+Merchants/@36.97331,-122.026413,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40262e165a15:0x57f88ef6cde775ff)<p></p>
   Breweries and Wineries a short drive away at the (Swift Street Courtyard)(http://santacruzlife.com/swift-street-courtyard/)
 
-- <u>Ice Cream< /u>:
+- **Ice Cream**:
 
   Downtown at [Penny Ice Creamery](https://www.google.com/maps/place/The+Penny+Ice+Creamery/@36.975329,-122.026188,17z/data=!4m2!3m1!1s0x808e4028b288686d:0x148bb4e5b52e6d01)and on Pacific Avenue at [Mission Hill Creamery](https://www.google.com/maps/place/The+Penny+Ice+Creamery/@36.975329,-122.026188,17z/data=!4m2!3m1!1s0x808e4028b288686d:0x148bb4e5b52e6d01)
