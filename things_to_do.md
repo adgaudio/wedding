@@ -60,7 +60,7 @@ Favorite Eateries
   
   Wine store and tasting room at off of Pacific Avenue at [Vinocruz](https://www.google.com/maps/place/Vinocruz/@36.974778,-122.025562,17z/data=!3m1!4b1!4m2!3m1!1s0x808e4026133fc1d7:0x16c6e0b0785c4147)<p></p>
   Off of Pacific Avenue at [Soif Wine Bar](https://www.google.com/maps/place/Soif+Restaurant+Wine+Bar+%26+Merchants/@36.97331,-122.026413,17z/data=!3m1!4b1!4m2!3m1!1s0x808e40262e165a15:0x57f88ef6cde775ff)<p></p>
-  Breweries and Wineries a short drive away at the (Swift Street Courtyard)(http://santacruzlife.com/swift-street-courtyard/)
+  Breweries and Wineries a short drive away at the [Swift Street Courtyard](http://santacruzlife.com/swift-street-courtyard/)
 
 - **Ice Cream**:
 
