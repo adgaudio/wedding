@@ -29,7 +29,7 @@ Use our hashtag:  #alexdillemma
     type="text/javascript"
     src="{{ site.baseurl }}/js/instafeed.min.js">
   </script>
-
+  <script src="jquery-1.11.1.min.js"></script>
   <script type="text/javascript">
     // Setup vars for an instagram feed using instafeedjs
     {% raw %}
@@ -67,6 +67,19 @@ Use our hashtag:  #alexdillemma
       data['accessToken'] = accessToken;
       window.sessionStorage.setItem(cache_key, accessToken);
     }
+
+    // add pagination
+    var lastScrollTop = 0;
+    $(window).scroll(function(event){
+       var st = $(this).scrollTop();
+       if (st > lastScrollTop){
+         // downscroll code
+         feed.next();
+       } else {
+         // upscroll code
+       }
+       lastScrollTop = st;
+    });
 
     // run the instagram feed
     var feed = new Instafeed(data);
