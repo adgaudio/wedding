@@ -69,6 +69,22 @@ Use our hashtag:  #alexdillemma
     }
 
     // add pagination
+    data['after'] = function() {
+      var images = $("#instafeed").find('a');
+      $.each(images, function(index, image) {
+        var delay = (index * 75) + 'ms';
+        $(image).css('-webkit-animation-delay', delay);
+        $(image).css('-moz-animation-delay', delay);
+        $(image).css('-ms-animation-delay', delay);
+        $(image).css('-o-animation-delay', delay);
+        $(image).css('animation-delay', delay);
+        $(image).addClass('animated flipInX');
+      });
+    // disable button if no more results to load
+    // if (!this.hasNext()) {
+    //  loadButton.setAttribute('disabled', 'disabled');
+    // }
+    }
     var lastScrollTop = 0;
     $(window).scroll(function(event){
        var st = $(this).scrollTop();
