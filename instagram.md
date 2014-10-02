@@ -29,7 +29,7 @@ Use our hashtag:  #alexdillemma
     type="text/javascript"
     src="{{ site.baseurl }}/js/instafeed.min.js">
   </script>
-  <script src="jquery-1.11.1.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script type="text/javascript">
     // Setup vars for an instagram feed using instafeedjs
     {% raw %}
